@@ -1,6 +1,6 @@
 module.exports = {
     rules: {
         // eslint-disable-next-line global-require
-        'no-non-variable-color': require('./no-non-variable-color'),
+        'discourage-non-variable-color': require('./discourage-non-variable-color'),
     },
 };
