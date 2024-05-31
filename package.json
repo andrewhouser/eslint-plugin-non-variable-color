@@ -1,6 +1,6 @@
 {
-    "name": "eslint-plugin-non-variable-colors",
-    "version": "1.0.0",
+    "name": "eslint-plugin-non-variable-color",
+    "version": "1.0.1",
     "description": "An ESLint plugin that warns against the use of color values over css color variables",
     "main": "index.js",
     "keywords": [
@@ -12,10 +12,10 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "https://github.com/andrewhouser/eslint-plugin-non-variable-colors"
+        "url": "https://github.com/andrewhouser/eslint-plugin-non-variable-color"
     },
     "bugs": {
-        "url": "https:github.com/andrewhouser/eslint-plugin-non-variable-colors/issues"
+        "url": "https:github.com/andrewhouser/eslint-plugin-non-variable-color/issues"
     },
-    "homepage": "https://github.com/andrewhouser/eslint-plugin-non-variable-colors#readme"
+    "homepage": "https://github.com/andrewhouser/eslint-plugin-non-variable-color#readme"
 }
