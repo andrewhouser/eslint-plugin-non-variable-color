@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-non-variable-color",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "An ESLint plugin that warns against the use of color values over css color variables",
     "main": "index.js",
     "keywords": [
